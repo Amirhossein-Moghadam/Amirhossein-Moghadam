@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - Databases
 - Testing Tools
 - Other Tools
-- Books that i was read1
+- Books that i was read
