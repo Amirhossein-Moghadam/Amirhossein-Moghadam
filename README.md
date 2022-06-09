@@ -25,8 +25,6 @@ Here are some ideas to get you started:
  <img
       src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="whatsapp"
-      width="40"
-      height="40"
 />
 - Front-End
 - Back-End
