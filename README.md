@@ -1,7 +1,11 @@
 ### Hi there, I'm Amirhossein 👋
+
 ---
+
 #### I am a front-end developer at Chargoon company.
+
 #### We are developing ERP(Enterprise resource planning) softwares and using the new technologies.
+
 <!--
 **Amirhossein-Moghadam/Amirhossein-Moghadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
  <img
       src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -31,14 +34,21 @@ Here are some ideas to get you started:
 </a>
 <a href="mailto:Amirhossein.Moghadam1370@gmail.com" target="_blank">
  <img
-      src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="gmail"
 />
 </a>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:Amirhossein.Moghadam1370@gmail.com" target="_blank">
+ <img
+      src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black"
+      alt="gmail"
+/>
+</a>
+
 ---
+
 ### My Skills
+
 - Languages
 
 - Front-End
