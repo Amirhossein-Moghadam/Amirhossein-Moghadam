@@ -35,6 +35,7 @@ Here are some ideas to get you started:
       alt="gmail"
       width="40"
       height="40"
+      background="red"
 />
 </a>
 <a href="https://github.com/Amirhossein-Moghadam" target="_blank">
