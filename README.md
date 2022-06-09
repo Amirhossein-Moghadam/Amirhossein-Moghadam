@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 ---
 ### My Skills
 - Languages
+<a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank" rel="noreferrer">
  <img
       src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="whatsapp"
+      alt="linkedin"
 />
+</a>
 - Front-End
 - Back-End
 - Databases
