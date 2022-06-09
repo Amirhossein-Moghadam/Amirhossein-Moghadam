@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![gmail](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 ### My Skills
 - Languages
