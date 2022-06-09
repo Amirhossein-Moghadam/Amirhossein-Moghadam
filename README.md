@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### My Skills
 
 - Languages
-
+<span style="color:orange;">Word up</span>
 - Front-End
 - Back-End
 - Databases
