@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```html
-<div class="section">
 
-    <a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
+<div style="background-color: red; padding: 10px;">
+
+<a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
         <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
@@ -57,13 +57,7 @@ Here are some ideas to get you started:
 />
 </a>
 </div>
-```
 
-```css
-.section{
-    background:red;
-}
-```
 ---
 
 ### My Skills
