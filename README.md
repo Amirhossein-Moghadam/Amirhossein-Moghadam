@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```html 
-<a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
- <img
+
+```html
+<div class="section">
+
+    <a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
+        <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
       width="40"
@@ -46,15 +49,21 @@ Here are some ideas to get you started:
       height="40"
 />
 <a href="https://medium.com/@amirhossein.moghadam1379" target="_blank">
- <img
+    <img
       src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"
       alt="gmail"
       width="40"
       height="40"
 />
 </a>
+</div>
 ```
 
+```css
+.section{
+    background:red;
+}
+```
 ---
 
 ### My Skills
