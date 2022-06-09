@@ -24,9 +24,8 @@ Here are some ideas to get you started:
  <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
-      ```
-      background:red
-      ```
+      width="40"
+      height="40"
 />
 </a>
 </a>
@@ -34,17 +33,23 @@ Here are some ideas to get you started:
  <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"
       alt="gmail"
+      width="40"
+      height="40"
 />
 </a>
 <a href="https://github.com/Amirhossein-Moghadam" target="_blank">
  <img
       src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
       alt="github"
+      width="40"
+      height="40"
 />
 <a href="https://medium.com/@amirhossein.moghadam1379" target="_blank">
  <img
       src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"
       alt="gmail"
+      width="40"
+      height="40"
 />
 </a>
 
