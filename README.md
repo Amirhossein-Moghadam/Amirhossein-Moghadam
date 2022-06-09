@@ -22,26 +22,28 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
  <img
-      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
-      <!-- src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" -->
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
+      ```
+      background:red
+      ```
 />
 </a>
 </a>
 <a href="mailto:Amirhossein.Moghadam1370@gmail.com" target="_blank">
  <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"
       alt="gmail"
 />
 </a>
 <a href="https://github.com/Amirhossein-Moghadam" target="_blank">
  <img
-      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"
+      src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
       alt="github"
 />
 <a href="https://medium.com/@amirhossein.moghadam1379" target="_blank">
  <img
-      src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black"
+      src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"
       alt="gmail"
 />
 </a>
