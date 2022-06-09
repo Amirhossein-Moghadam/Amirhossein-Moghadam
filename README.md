@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![#1589F0](<a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
+```html 
+<a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
  <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="linkedin"
@@ -51,7 +52,8 @@ Here are some ideas to get you started:
       width="40"
       height="40"
 />
-</a>)`#1589F0`
+</a>
+```
 
 ---
 
