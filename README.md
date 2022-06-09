@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="background-color: red; padding: 10px;">
+<div style="background: red; padding: 10px;">
 
 <a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
         <img
