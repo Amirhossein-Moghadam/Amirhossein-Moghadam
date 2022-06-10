@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 
 ### My Skills
 
-- Languages
+<h3 align="left">Languages:</h3>
+<p>
 <a href="https://www.javascript.com" target="_blank">
   <img
         src="https://www.svgrepo.com/show/349419/javascript.svg"
@@ -93,20 +94,23 @@ Here are some ideas to get you started:
         height="40"
   />
 </a>
+</p>
 
-- UI Kits
+<h3 align="left">UI Kits:</h3>
 
-- Back-End
+<h3 align="left">Back-End:</h3>
 
-- Databases
 
-- State Management
+<h3 align="left">Databases:</h3>
 
-- Testing Tools
+<h3 align="left">State Management:</h3>
 
-- Other Tools
+-<h3 align="left">Testing Tools:</h3>
 
-<h4 align="left">Interested:</h4>
+<h3 align="left">Other Tools:</h3>
+
+
+<h3 align="left">Interested:</h3>
 <p align="left">
 <img
         src="https://www.svgrepo.com/show/349310/bitcoin.svg"
