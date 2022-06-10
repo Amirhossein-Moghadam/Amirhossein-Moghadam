@@ -59,10 +59,26 @@ Here are some ideas to get you started:
 ### My Skills
 
 - Languages
+<a href="https://www.javascript.com/ target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/349419/javascript.svg"
+        alt="javascript"
+        width="40"
+        height="40"
+  />
+</a>
 <a href="https://python.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354238/python.svg"
-        alt="gmail"
+        alt="python"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="http://cpp.sh/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/353614/c-plusplus.svg
+        alt="cpp"
         width="40"
         height="40"
   />
