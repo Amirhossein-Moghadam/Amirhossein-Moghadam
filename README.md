@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </a>
 <a href="http://cpp.sh/" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/353614/c-plusplus.svg
+        src="https://www.svgrepo.com/show/353614/c-plusplus.svg"
         alt="cpp"
         width="40"
         height="40"
