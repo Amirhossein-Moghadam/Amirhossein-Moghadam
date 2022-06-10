@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ### My Skills
 
 - Languages
-<a href="https://www.javascript.com/ target="_blank">
+<a href="https://www.javascript.com" target="_blank">
   <img
         src="https://www.svgrepo.com/show/349419/javascript.svg"
         alt="javascript"
