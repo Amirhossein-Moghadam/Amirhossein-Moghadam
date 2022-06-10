@@ -67,5 +67,7 @@ Here are some ideas to get you started:
 - Other Tools
 - Books that i was read
 
+---
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Amirhossein-Moghadam&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossein-Moghadam&hide=TeX&layout=compact)
