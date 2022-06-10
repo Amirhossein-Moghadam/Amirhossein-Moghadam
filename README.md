@@ -206,7 +206,8 @@ Here are some ideas to get you started:
         src="https://www.svgrepo.com/show/331488/mongodb.svg"
         alt="mongodb"
         height="40"
-        width="fit-content"
+        width="40"
+        style="margin-right: 300px;"
   />
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
