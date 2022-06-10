@@ -203,7 +203,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.mongodb.com/" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/303232/mongodb-logo.svg"
+        src="https://www.svgrepo.com/show/331488/mongodb.svg"
         alt="mongodb"
         height="40"
         width="fit-content"
@@ -211,7 +211,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/354381/sqlite.svg"
+        src="https://www.svgrepo.com/show/374094/sqlite.svg"
         alt="sqlite"
         height="40"
         width="40"
