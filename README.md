@@ -106,8 +106,8 @@ Here are some ideas to get you started:
 
 - Other Tools
 
-- Interested
-<div>
+<h4 align="left">Interested:</h4>
+<p align="left">
 <img
         src="https://www.svgrepo.com/show/349310/bitcoin.svg"
         alt="bitcoin"
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
 />
-</div>
+</p>
 
 - Books that i was read
 
