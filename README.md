@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-### My Skills
+## My Skills
 
 <!-- ********************************************* -->
 <h3 align="left">Languages:</h3>
