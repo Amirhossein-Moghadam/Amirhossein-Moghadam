@@ -88,15 +88,52 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ********************************************* -->
-<h3 align="left">Front-End:</h3>
+<h3 align="left">Front-End Library:</h3>
 <a href="https://react.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354259/react.svg"
-        alt="gmail"
+        alt="react"
         width="40"
         height="40"
   />
 </a>
+
+<!-- ********************************************* -->
+<h3 align="left">Web Development:</h3>
+<p>
+<a href="https://html.com/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/353884/html-5.svg"
+        alt="html"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/303481/css-3-logo.svg"
+        alt="css"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="https://cssinjs.org/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/353946/jss.svg"
+        alt="jss"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="https://sass-lang.com/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/374061/sass.svg"
+        alt="sass"
+        width="40"
+        height="40"
+  />
+</a>
+</p>
 
 <!-- ********************************************* -->
 <h3 align="left">UI Kits:</h3>
@@ -128,6 +165,18 @@ Here are some ideas to get you started:
 <img
         src="https://www.svgrepo.com/show/349300/apple.svg"
         alt="apple"
+        width="40"
+        height="40"
+/>
+<img
+        src="https://www.svgrepo.com/show/349299/apple-music.svg"
+        alt="music"
+        width="40"
+        height="40"
+/>
+<img
+        src="https://www.svgrepo.com/show/303249/mercedes-benz-9-logo.svg"
+        alt="benz"
         width="40"
         height="40"
 />
