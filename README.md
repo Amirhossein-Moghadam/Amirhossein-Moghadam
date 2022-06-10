@@ -274,7 +274,13 @@ Here are some ideas to get you started:
       alt="grokking algorithm"
       width="250"
       height="300"
->
+/>&nbsp;&nbsp;
+<img 
+      src="https://dl.ebooksworld.ir/images/Mastering.React.Test-Driven.Development-Daniel.Irvine-Packt-9781789133417-EBooksWorld.ir.jpg"
+      alt="React Test-Driven Development"
+      width="400"
+      height="493"
+/>&nbsp;&nbsp;
 </p>
 
 ---
