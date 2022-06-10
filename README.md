@@ -1,8 +1,8 @@
-### Hi there, I'm Amirhossein 👋
+### Hi there, I'm `Amirhossein` 👋
 
 ---
 
-#### I am a front-end developer at Chargoon company.
+#### I am a `front-end` developer at Chargoon company.
 
 #### We are developing ERP(Enterprise resource planning) softwares and using the new technologies.
 
@@ -207,7 +207,6 @@ Here are some ideas to get you started:
         alt="mongodb"
         height="40"
         width="40"
-        style="margin-right: 300px;"
   />
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
