@@ -94,13 +94,31 @@ Here are some ideas to get you started:
   />
 </a>
 
+- UI Kits
+
 - Back-End
 
 - Databases
 
+- State Management
+
 - Testing Tools
 
 - Other Tools
+
+- Interested
+<img
+        src="https://www.svgrepo.com/show/349310/bitcoin.svg"
+        alt="bitcoin"
+        width="40"
+        height="40"
+/>
+<img
+        src="https://www.svgrepo.com/show/349300/apple.svg"
+        alt="apple"
+        width="40"
+        height="40"
+/>
 
 - Books that i was read
 
