@@ -59,40 +59,40 @@ Here are some ideas to get you started:
 ### My Skills
 
 - Languages
-<a href="https://www.javascript.com" target="_blank">
+  <a href="https://www.javascript.com" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/349419/javascript.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-  />
-</a>
-<a href="https://python.org" target="_blank">
+          src="https://www.svgrepo.com/show/349419/javascript.svg"
+          alt="javascript"
+          width="40"
+          height="40"
+    />
+  </a>
+  <a href="https://python.org" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/354238/python.svg"
-        alt="python"
-        width="40"
-        height="40"
-  />
-</a>
-<a href="http://cpp.sh/" target="_blank">
+          src="https://www.svgrepo.com/show/354238/python.svg"
+          alt="python"
+          width="40"
+          height="40"
+    />
+  </a>
+  <a href="http://cpp.sh/" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/353614/c-plusplus.svg"
-        alt="cpp"
-        width="40"
-        height="40"
-  />
-</a>
+          src="https://www.svgrepo.com/show/353614/c-plusplus.svg"
+          alt="cpp"
+          width="40"
+          height="40"
+    />
+  </a>
 
 - Front-End
-<a href="https://react.org" target="_blank">
+  <a href="https://react.org" target="_blank">
   <img
-        src="https://www.svgrepo.com/show/354259/react.svg"
-        alt="gmail"
-        width="40"
-        height="40"
-  />
-</a>
+          src="https://www.svgrepo.com/show/354259/react.svg"
+          alt="gmail"
+          width="40"
+          height="40"
+    />
+  </a>
 
 - UI Kits
 
@@ -107,6 +107,7 @@ Here are some ideas to get you started:
 - Other Tools
 
 - Interested
+<div>
 <img
         src="https://www.svgrepo.com/show/349310/bitcoin.svg"
         alt="bitcoin"
@@ -119,6 +120,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
 />
+</div>
 
 - Books that i was read
 
