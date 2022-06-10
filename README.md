@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <a href="https://www.linkedin.com/in/amirhossein-moghadam-5b72811a9/" target="_blank">
         <img
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
@@ -60,14 +59,15 @@ Here are some ideas to get you started:
 ### My Skills
 
 - Languages
-<a href="https://python.org" target="_blank">
-    <img
-      src="https://www.svgrepo.com/show/354238/python.svg"
-      alt="gmail"
-      width="40"
-      height="40"
-/>
-
+  <span>
+  <a href="https://python.org" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/354238/python.svg"
+        alt="gmail"
+        width="40"
+        height="40"
+  />
+  </span>
 - Front-End
 - Back-End
 - Databases
