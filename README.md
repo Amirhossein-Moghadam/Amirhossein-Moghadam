@@ -272,8 +272,8 @@ Here are some ideas to get you started:
 <img 
       src="https://images.manning.com/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png"
       alt="grokking algorithm"
-      width="250"
-      height="300"
+      width="300"
+      height="393"
 />&nbsp;&nbsp;
 <img 
       src="https://dl.ebooksworld.ir/images/Mastering.React.Test-Driven.Development-Daniel.Irvine-Packt-9781789133417-EBooksWorld.ir.jpg"
