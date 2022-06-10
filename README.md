@@ -272,7 +272,8 @@ Here are some ideas to get you started:
 <img 
       src="https://images.manning.com/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png"
       alt="grokking algorithm"
-
+      width="150"
+      height="250"
 >
 </p>
 
