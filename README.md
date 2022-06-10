@@ -137,18 +137,98 @@ Here are some ideas to get you started:
 
 <!-- ********************************************* -->
 <h3 align="left">UI Kits:</h3>
-
-<!-- ********************************************* -->
-<h3 align="left">Back-End:</h3>
-
-<!-- ********************************************* -->
-<h3 align="left">Databases:</h3>
+<p>
+<a href="http://mui.com/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/354048/material-ui.svg"
+        alt="material-ui"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="https://ant.design/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/353401/ant-design.svg"
+        alt="ant-design"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/353498/bootstrap.svg"
+        alt="bootstarp"
+        width="40"
+        height="40"
+  />
+</a>
+</p>
 
 <!-- ********************************************* -->
 <h3 align="left">State Management:</h3>
+<p>
+<a href="https://redux.js.org/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/303557/redux-logo.svg"
+        alt="bootstarp"
+        width="40"
+        height="40"
+  />
+</a>
+</p>
+
+<!-- ********************************************* -->
+<h3 align="left">Back-End:</h3>
+<p>
+<a href="https://expressjs.com/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/330398/express.svg"
+        alt="express"
+        width="40"
+        height="40"
+  />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"
+        alt="node js"
+        width="40"
+        height="40"
+  />
+</a>
+</p>
+
+<!-- ********************************************* -->
+<h3 align="left">Databases:</h3>
+<p>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/303232/mongodb-logo.svg"
+        alt="mongodb"
+        height="40"
+  />
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/354381/sqlite.svg"
+        alt="sqlite"
+        height="40"
+  />
+</a>
+</p>
 
 <!-- ********************************************* -->
 <h3 align="left">Testing Tools:</h3>
+<p>
+<a href="https://jestjs.io/" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/353930/jest.svg"
+        alt="jest"
+        width="40"
+        height="40"
+  />
+</a>
+</p>
 
 <!-- ********************************************* -->
 <h3 align="left">Other Tools:</h3>
