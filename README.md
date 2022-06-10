@@ -68,7 +68,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://python.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354238/python.svg"
