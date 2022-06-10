@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### My Skills
 
+<!-- ********************************************* -->
 <h3 align="left">Languages:</h3>
 <p>
 <a href="https://www.javascript.com" target="_blank">
@@ -84,8 +85,10 @@ Here are some ideas to get you started:
         height="40"
   />
 </a>
+</p>
 
-- Front-End
+<!-- ********************************************* -->
+<h3 align="left">Front-End:</h3>
 <a href="https://react.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354259/react.svg"
@@ -94,22 +97,26 @@ Here are some ideas to get you started:
         height="40"
   />
 </a>
-</p>
 
+<!-- ********************************************* -->
 <h3 align="left">UI Kits:</h3>
 
+<!-- ********************************************* -->
 <h3 align="left">Back-End:</h3>
 
-
+<!-- ********************************************* -->
 <h3 align="left">Databases:</h3>
 
+<!-- ********************************************* -->
 <h3 align="left">State Management:</h3>
 
--<h3 align="left">Testing Tools:</h3>
+<!-- ********************************************* -->
+<h3 align="left">Testing Tools:</h3>
 
+<!-- ********************************************* -->
 <h3 align="left">Other Tools:</h3>
 
-
+<!-- ********************************************* -->
 <h3 align="left">Interested:</h3>
 <p align="left">
 <img
@@ -126,7 +133,8 @@ Here are some ideas to get you started:
 />
 </p>
 
-- Books that i was read
+<!-- ********************************************* -->
+<h3 align="left">Books that i was read:</h3>
 
 ---
 
