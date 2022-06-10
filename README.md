@@ -251,7 +251,7 @@ Here are some ideas to get you started:
         alt="apple"
         width="40"
         height="40"
-/>
+/>&nbsp;&nbsp;
 <img
         src="https://www.svgrepo.com/show/349299/apple-music.svg"
         alt="music"
@@ -268,6 +268,14 @@ Here are some ideas to get you started:
 
 <!-- ********************************************* -->
 <h3 align="left">Books that i was read:</h3>
+<p>
+<img 
+      src="https://images.manning.com/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png"
+      alt="grokking algorithm"
+      width="100"
+      height="200"
+>
+</p>
 
 ---
 
