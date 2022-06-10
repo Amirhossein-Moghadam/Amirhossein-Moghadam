@@ -28,8 +28,7 @@ Here are some ideas to get you started:
       width="40"
       height="40"
 />
-</a>
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:Amirhossein.Moghadam1379@gmail.com" target="_blank">
  <img
       src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
       width="40"
       height="40"
 />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/Amirhossein-Moghadam" target="_blank">
  <img
       src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
@@ -45,6 +44,7 @@ Here are some ideas to get you started:
       width="40"
       height="40"
 />
+</a>&nbsp;&nbsp;
 <a href="https://medium.com/@amirhossein.moghadam1379" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       width="40"
       height="40"
 />
-</a>
+</a>&nbsp;&nbsp;
 
 ---
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="http://cpp.sh/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/353614/c-plusplus.svg"
@@ -84,11 +84,12 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
 <h3 align="left">Front-End Library:</h3>
+<p>
 <a href="https://react.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354259/react.svg"
@@ -96,7 +97,8 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
+</p>
 
 <!-- ********************************************* -->
 <h3 align="left">Web Development:</h3>
@@ -108,7 +110,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
   <img
         src="https://www.svgrepo.com/show/303481/css-3-logo.svg"
@@ -116,7 +118,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://cssinjs.org/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/353946/jss.svg"
@@ -124,7 +126,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/374061/sass.svg"
@@ -132,7 +134,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
@@ -145,7 +147,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://ant.design/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/353401/ant-design.svg"
@@ -153,7 +155,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/353498/bootstrap.svg"
@@ -161,7 +163,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
@@ -174,7 +176,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
@@ -187,7 +189,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://nodejs.org/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"
@@ -195,7 +197,7 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
@@ -208,7 +210,7 @@ Here are some ideas to get you started:
         height="40"
         width="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org/" target="_blank">
   <img
         src="https://www.svgrepo.com/show/374094/sqlite.svg"
@@ -216,7 +218,7 @@ Here are some ideas to get you started:
         height="40"
         width="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
@@ -229,11 +231,11 @@ Here are some ideas to get you started:
         width="40"
         height="40"
   />
-</a>
+</a>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
-<h3 align="left">Other Tools:</h3>
+<!-- <h3 align="left">Other Tools:</h3> -->
 
 <!-- ********************************************* -->
 <h3 align="left">Interested:</h3>
@@ -243,7 +245,7 @@ Here are some ideas to get you started:
         alt="bitcoin"
         width="40"
         height="40"
-/>
+/>&nbsp;&nbsp;
 <img
         src="https://www.svgrepo.com/show/349300/apple.svg"
         alt="apple"
@@ -255,13 +257,13 @@ Here are some ideas to get you started:
         alt="music"
         width="40"
         height="40"
-/>
+/>&nbsp;&nbsp;
 <img
         src="https://www.svgrepo.com/show/303249/mercedes-benz-9-logo.svg"
         alt="benz"
         width="40"
         height="40"
-/>
+/>&nbsp;&nbsp;
 </p>
 
 <!-- ********************************************* -->
