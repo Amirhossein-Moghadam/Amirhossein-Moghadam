@@ -278,8 +278,8 @@ Here are some ideas to get you started:
 <img 
       src="https://dl.ebooksworld.ir/images/Mastering.React.Test-Driven.Development-Daniel.Irvine-Packt-9781789133417-EBooksWorld.ir.jpg"
       alt="React Test-Driven Development"
-      width="280"
-      height="373"
+      width="250"
+      height="343"
 />&nbsp;&nbsp;
 </p>
 
