@@ -206,6 +206,7 @@ Here are some ideas to get you started:
         src="https://www.svgrepo.com/show/303232/mongodb-logo.svg"
         alt="mongodb"
         height="40"
+        width="fit-content"
   />
 </a>
 <a href="https://www.sqlite.org/" target="_blank">
@@ -213,6 +214,7 @@ Here are some ideas to get you started:
         src="https://www.svgrepo.com/show/354381/sqlite.svg"
         alt="sqlite"
         height="40"
+        width="40"
   />
 </a>
 </p>
