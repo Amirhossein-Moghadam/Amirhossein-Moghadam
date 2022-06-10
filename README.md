@@ -59,15 +59,14 @@ Here are some ideas to get you started:
 ### My Skills
 
 - Languages
-  <span>
-  <a href="https://python.org" target="_blank">
+<a href="https://python.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354238/python.svg"
         alt="gmail"
         width="40"
         height="40"
   />
-  </span>
+</a>
 - Front-End
 - Back-End
 - Databases
