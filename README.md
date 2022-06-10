@@ -67,11 +67,25 @@ Here are some ideas to get you started:
         height="40"
   />
 </a>
+
 - Front-End
+<a href="https://react.org" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/354259/react.svg"
+        alt="gmail"
+        width="40"
+        height="40"
+  />
+</a>
+
 - Back-End
+
 - Databases
+
 - Testing Tools
+
 - Other Tools
+
 - Books that i was read
 
 ---
