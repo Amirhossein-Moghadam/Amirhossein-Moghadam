@@ -270,6 +270,12 @@ Here are some ideas to get you started:
 <h3 align="left">Books that i was read:</h3>
 <p>
 <img 
+      src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg"
+      alt="clean code"
+      width="212"
+      height="315"
+/>&nbsp;&nbsp;
+<img 
       src="https://images.manning.com/book/3/0b325da-eb26-4e50-8a2a-46042c647083/Bhargava-Algorithms_hires.png"
       alt="grokking algorithm"
       width="212"
