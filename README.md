@@ -69,6 +69,14 @@ Here are some ideas to get you started:
         height="40"
   />
 </a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/349540/typescript.svg"
+        alt="typescript"
+        width="40"
+        height="40"
+  />
+</a>&nbsp;&nbsp;
 <a href="https://python.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354238/python.svg"
@@ -93,6 +101,14 @@ Here are some ideas to get you started:
 <a href="https://react.org" target="_blank">
   <img
         src="https://www.svgrepo.com/show/354259/react.svg"
+        alt="react"
+        width="40"
+        height="40"
+  />
+</a>&nbsp;&nbsp;
+<a href="https://nextjs.org" target="_blank">
+  <img
+        src="https://www.svgrepo.com/show/354112/nextjs.svg"
         alt="react"
         width="40"
         height="40"
