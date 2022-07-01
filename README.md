@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;
 <a href="https://nextjs.org" target="_blank">
   <img
-        src="https://www.svgrepo.com/svg/342062/next-js"
+        src="https://www.svgrepo.com/show/354112/nextjs.svg"
         alt="nextjs"
         width="40"
         height="40"
