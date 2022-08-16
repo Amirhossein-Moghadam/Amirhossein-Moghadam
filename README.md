@@ -2,7 +2,7 @@
 
 ---
 
-#### I am a `front-end` developer at Chargoon company. {#Amir}
+#### I am a `front-end` developer at Chargoon company.
 
 #### We are developing ERP(Enterprise resource planning) softwares and using the new technologies.
 
