@@ -340,4 +340,4 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Amirhossein-Moghadam&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhossein-Moghadam&hide=TeX&layout=compact)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pantearezaee&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user='amirhossein-moghadam'&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
