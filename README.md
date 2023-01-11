@@ -1,4 +1,4 @@
-### Hi there, I'm `Amirhossein` 👋
+### Hi there, I'm `Amir` 👋
 
 ---
 
