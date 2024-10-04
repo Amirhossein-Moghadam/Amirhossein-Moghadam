@@ -2,7 +2,7 @@
 
 ---
 
-#### I am a `front-end` developer.
+#### I'm a Software Engineer.
 
 #### We are developing Enterprise software and using the new technologies.
 
