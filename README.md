@@ -1,10 +1,4 @@
-### Hi there, I'm `Amirhossein` 👋
-
----
-
-#### I'm a Software Engineer.
-
-#### We are developing Enterprise software and using the new technologies.
+### Hi there 👋
 
 <!--
 **Amirhossein-Moghadam/Amirhossein-Moghadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
