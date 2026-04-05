@@ -9,7 +9,7 @@
 
 <div style="display: flex; justify-content: center; align-items: space-between; flex-direction: column;">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Moghadam&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amirhossein-Moghadam's GitHub Stats" />
-  <img width="49%" height="207px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amirhossein-Moghadam&theme=transparent&layout=donut&hide=css,HTML,php,ClassASP&langs_count=4&border_radius=10&show_icons=true&locale=en" alt="Amirhossein-Moghadam's Most Used Languages" />
+  <img width="49%" height="207px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amirhossein-Moghadam&theme=transparent&layout=donut&hide=css,HTML,ClassASP&langs_count=4&border_radius=10&show_icons=true&locale=en" alt="Amirhossein-Moghadam's Most Used Languages" />
 </div>
 <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
