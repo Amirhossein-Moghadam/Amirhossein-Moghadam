@@ -6,6 +6,19 @@
   <img src="https://profile-counter.deno.dev/Amirhossein-Moghadam/count.svg" alt="Visitor's Count" />
 </div>
 <br>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
     
 <div style="display: flex; justify-content: center; align-items: space-between; flex-direction: column;">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amirhossein-Moghadam&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amirhossein-Moghadam's GitHub Stats" />
