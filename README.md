@@ -311,7 +311,7 @@ Here are some ideas to get you started:
       height="315"
 />&nbsp;&nbsp;
 <img 
-      src="https://dl.ebooksworld.ir/images/Mastering.React.Test-Driven.Development-Daniel.Irvine-Packt-9781789133417-EBooksWorld.ir.jpg"
+      src="https://www.worldofbooks.com/cdn/shop/files/1789133416.jpg?v=1751091308&width=493"
       alt="React Test-Driven Development"
       width="212"
       height="315"
