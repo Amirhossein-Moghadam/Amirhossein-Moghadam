@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
 <div align="center" style="display: none"> 
   <b>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Amirhossein-Moghadam/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/Amirhossein-Moghadam/count.svg" alt="Visitor's Count" />
 </div>
 <br>
     
